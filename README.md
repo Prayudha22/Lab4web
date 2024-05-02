@@ -348,14 +348,6 @@ Cara mengakses **httpd.conf** :
 
 ![Gambar 4](4.png)
 
-Cara aksesnya menjadi :
-* Halaman Home ( http://localhost/lab4_php_modular/home )
-
-![Gambar 5](home.png)
-
-* Halaman Tambah ( http://localhost/lab4_php_modular/tambah )
-
-![Gambar 6](tambah.png)
 
 
 ## Terimakasih!
