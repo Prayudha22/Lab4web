@@ -297,11 +297,11 @@ if ($conn == false)
 
 * Berikut adalah tampilan home :
 
-![Gambar 1](screenshot/1.png)
+![Gambar 1](screenshot/home.png)
 
 * Berikut adalah tampilan tambah :
 
-![Gambar 2](screenshot/2.png)
+![Gambar 2](screenshot/tambah.png)
 
 8. Membuat Routing
 
@@ -342,11 +342,11 @@ Cara mengakses **httpd.conf** :
 * Pilih folder **conf**
 * Pilih **httpd.conf**, kemudian aktifkan LoadModule mod_rewrite dengan cara melakukan un-comment pada baris tersebut, kemudian restart Apache2. Seperti gambar di bawah ini :
 
-![Gambar 3](mod.png)
+![Gambar 3](Screenshot/mod.png)
 
 11. Kemudian membuat file **.htaccess**, kemudian simpan ke dalam folder **lab4_php_modular**.
 
-![Gambar 4](4.png)
+![Gambar 4](Screnshot/htta.png)
 
 
 
