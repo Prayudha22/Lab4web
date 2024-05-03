@@ -345,7 +345,7 @@ Cara mengakses **httpd.conf** :
 
 11. Kemudian membuat file **.htaccess**, kemudian simpan ke dalam folder **lab4_php_modular**.
 
-![Gambar 4](Screnshot/htta.png)
+![Gambar 4](Screenshot/htta.png)
 
 
 
