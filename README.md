@@ -297,11 +297,11 @@ if ($conn == false)
 
 * Berikut adalah tampilan home :
 
-![Gambar 1](screenshot/home.png)
+![Gambar 1](Screenshot/home.png)
 
 * Berikut adalah tampilan tambah :
 
-![Gambar 2](screenshot/tambah.png)
+![Gambar 2](Screenshot/tambah.png)
 
 8. Membuat Routing
 
